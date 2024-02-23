@@ -25,17 +25,27 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: whyen-wang.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://whyen-wang.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  whyen-wang
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
   - projects.markdown
   - about.markdown
+
+author:
+  name: Whyen Wang
+  email: "wayne500000w@gmail.com"
+
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/whyen-wang"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

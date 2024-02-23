@@ -5,5 +5,5 @@
 layout: home
 ---
 * 🌱 I’m currently learning:
-  * 🗄️ back-end: Flask
   * ⚛️ front-end: Electron, React, React Native
+  * 🗄️ back-end: Flask
