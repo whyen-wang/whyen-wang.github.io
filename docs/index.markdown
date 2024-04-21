@@ -4,6 +4,11 @@
 
 layout: home
 ---
-* 🌱 I’m currently learning:
-  * ⚛️ front-end: Electron, React, React Native
-  * 🗄️ back-end: Flask
+* 🧠 I’m currently learning:
+    * ⚛️ front-end: Electron, React, React Native
+    * 🔙 back-end: Flask
+    * 🗄️ deployment: Kubernetes
+
+* ❤️ My life:
+    * 🌱 gardening: Succulents
+    * ⛰️ hiking: Taiwan 100 peaks challenge (0/100)
